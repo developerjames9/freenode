@@ -57,6 +57,7 @@ vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#3%7C%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#11%7C%40Selinc
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.237.88.39:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjIiLCAicG9ydCI6IDIwMzMyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODAzN2NlMDAtYzg2MC00MjEzLWI4ODgtYmU1YzdlZDZlYTQ4In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@121.127.231.229:15056#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NDQ4ZWNlY2E0MjI=@43.226.17.54:43887#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CAE_speednode_0001
@@ -93,7 +94,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.59.213:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.33.87.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CCY_speednode_0043
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.150.115.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CCY_speednode_0044
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.26.229.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CCY_speednode_0045
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.124.224.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CCZ_speednode_0046
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.124.18.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CCZ_speednode_0047
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CCZ_speednode_0048
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@140.99.233.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CDE_speednode_0049
@@ -151,6 +151,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.213:8880?allowInsecure=0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CKZ_speednode_0105
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.161.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CLT_speednode_0106
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.250.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CLT_speednode_0107
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.66.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CLT_speednode_0108
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CLT_speednode_0109
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.81.58.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CLT_speednode_0110
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CLT_speednode_0111
@@ -254,6 +255,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.225.252.213:8880?allowInsecure=0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.81.247.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0219
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.167.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0220
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0221
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.225.72.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0222
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.74.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0223
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.73.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0224
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.165.152.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0225
@@ -317,4 +319,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.213:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-14 15:26:00 
+### 更新时间 2025-06-14 15:29:25 
